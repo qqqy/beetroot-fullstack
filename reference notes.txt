@@ -1,0 +1,3 @@
+This is a practice fullstack, nothing special. Check the packages to see what it's running.
+
+Gonna be using this for immutable stuff, since the internet is so bad.

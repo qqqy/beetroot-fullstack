@@ -1,5 +1,21 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.imm , .mut {
+  width: 100%;
+  height: 100%;
+  border: 1px dotted black;
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  width: 98vw;
+  height: 98vh;
+  display: flex;
+  justify-content: space-around;
 }
 
 .App-logo {
